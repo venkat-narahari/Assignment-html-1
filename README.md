@@ -2,6 +2,11 @@
 
 This project contains a simple website showcasing personal interests and favorite quotes.
 
+## Technologies and Tools
+
+- [HTML5](https://html.spec.whatwg.org/)
+- [CSS3](https://www.w3.org/Style/CSS/)
+
 ## Files
 
 - `index.html`: This is the main HTML file containing the website's structure and content.
