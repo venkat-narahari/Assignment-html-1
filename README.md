@@ -17,16 +17,16 @@ This project contains a simple website showcasing personal interests and favorit
 
 ### CSS Styling
 
-    - The body has a coloured background and a font family.
+    - The body has a colored background and a font family.
     - The main content is centered within a wide container.
     - Quotes are displayed in centered blocks with borders.
 
-## Viewing the Website:
+## Viewing the Website
 
 1. Open the `index.html` file in a web browser.
 2. Ensure the `styles.css` file is in the same directory as `index.html`.
 
-## Additional Notes:
+## Additional Notes
 
 - The website is a basic structure, ready for further content and styling.
 - Consider adding more sections, images, or interactive elements to enhance the website's functionality.
