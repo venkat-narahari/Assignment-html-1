@@ -10,10 +10,10 @@ This project contains a simple website showcasing personal interests and favorit
 
 ### HTML Structure
 
-The website consists of a 
-    - main heading (h1), an introductory paragraph (p)
-    - a unordered list of interests (ul)
-    - a section for favorite quotes (h2, blockquote)
+    - Main heading `<h1>`.
+    - Introductory paragraph `<p>`.
+    - Unordered list of interests `ul`.
+    - Section for favorite quotes `<h2>`.
 
 ### CSS Styling
 
