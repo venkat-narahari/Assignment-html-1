@@ -4,7 +4,7 @@ This project contains a simple website showcasing personal interests and favorit
 
 ## Files
 
-- `index.html`: This is the main HTML file that contains the structure and content of the website.
+- `index.html`: This is the main HTML file containing the website's structure and content.
 
 - `style.css`: This CSS file provides styling to the HTML elements, defining the layout, fonts, and colors.
 
@@ -23,11 +23,11 @@ This project contains a simple website showcasing personal interests and favorit
 
 ## Viewing the Website:
 
-1. Open the index.html file in a web browser.
-2. Ensure the styles.css file is in the same directory as index.html.
+1. Open the `index.html` file in a web browser.
+2. Ensure the `styles.css` file is in the same directory as `index.html`.
 
 ## Additional Notes:
 
-- The website is currently a basic structure, ready for further content and styling.
+- The website is a basic structure, ready for further content and styling.
 - Consider adding more sections, images, or interactive elements to enhance the website's functionality.
 
